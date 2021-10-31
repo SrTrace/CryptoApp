@@ -1,2 +1,2 @@
 # Cryptoverse - Explore the World of Cryptocurrency
-https://srtrace.github.io/crypto-app/
+https://srtrace.github.io/CryptoApp/
